@@ -10,4 +10,3 @@ I'm a  student who is passionate about writing code, solving problems, automatin
 - 📫 How to reach me: [Facebook](https://www.facebook.com/muzammil.memon.58910) [Gmail](mailto:malikkath78@gmail.com)
 
 ⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/muzammil17sp)
