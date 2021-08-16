@@ -9,4 +9,4 @@ I'm a  student who is passionate about writing code, solving problems, automatin
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/muzammil.memon.58910) [Gmail](mailto:malikkath78@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
+⭐️ From [Muzammil Rafiq](https://github.com/muzammil17sp)
